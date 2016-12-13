@@ -1,3 +1,7 @@
-npm install
-grunt
+To test:
 
+```
+npm install
+
+grunt
+```
